@@ -1,0 +1,95 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Import]
+"Image API Enabled Filters"="TIFF JPEG GIF BMP "
+
+
+
+
+
+
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Import\JPEG]
+"ExtensionsEx"="jpg jpe jpeg jfif"
+"Path"="C:\\wupg\\mspaintfilter\\JPEGIM32.FLT"
+"Name"="JPEG File Interchange-Format"
+"Extensions"="jpg"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Import\JPEG\Options]
+"ShowProgressDialog"="Yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Import\JPEG\Image API]
+"Time Stamp"=dword:01be6bd1
+"Compression Type"=dword:00000080
+"Black Is 0"="Yes"
+"Description"=dword:00000000
+"BiLevel"="0,0,0"
+"GrayScale"="128, 192, 0"
+"Palette"="0, 0, 0"
+"RGB"="128, 192, 0"
+"RGB Planar"="0,0,0"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Import\JPEG\Filter API]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Import\GIF]
+"ExtensionsEx"="gif gfa"
+"Path"="C:\\wupg\\mspaintfilter\\GIFIMP32.FLT"
+"Name"="GIF (Graphics Interchange Format)"
+"Extensions"="gif"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Import\GIF\Options]
+"ShowProgressDialog"="Yes"
+
+
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Import\WMF]
+"Path"="C:\\wupg\\mspaintfilter\\WMFIMP32.FLT"
+"Name"="Windows Metadatei"
+"Extensions"="wmf"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Import\EPS]
+"Path"="C:\\wupg\\mspaintfilter\\EPSIMP32.FLT"
+"Name"="Encapsulated PostScript"
+"Extensions"="eps"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Export]
+"Image API Enabled Filters"="TIFF JPEG GIF BMP "
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Export\TIFF]
+"Path"="C:\\wupg\\mspaintfilter\\TIFFIM32.FLT"
+"Name"="Tagged Image File-Format"
+"Extensions"="tif"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Export\JPEG]
+"Path"="C:\\wupg\\mspaintfilter\\JPEGIM32.FLT"
+"Name"="JPEG File Interchange-Format"
+"Extensions"="jpg"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Export\JPEG\Options]
+"ShowProgressDialog"="Yes"
+"Quality"=dword:0000004b
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Export\JPEG\Image API]
+"Time Stamp"=dword:01be6bd1
+"Compression Type"=dword:00000080
+"Black Is 0"="Yes"
+"Description"=dword:00000000
+"BiLevel"="0,0,0"
+"GrayScale"="128, 192, 0"
+"Palette"="0, 0, 0"
+"RGB"="128, 192, 0"
+"RGB Planar"="0,0,0"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Export\JPEG\Filter API]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Export\GIF]
+"Path"="C:\\wupg\\mspaintfilter\\GIFIMP32.FLT"
+"Name"="GIF (Graphics Interchange Format)"
+"Extensions"="gif"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Graphics Filters\Export\GIF\Options]
+"ShowProgressDialog"="Yes"
+"ShowMetafileBackgroundTransparent"="No"
+

@@ -1,0 +1,15 @@
+;*MSWEBPOST*
+; The line above must appear EXACTLY as shown
+
+[Example Provider -- this string is what the user sees]
+DisplayURL=0
+UploadURL=www.microsoft.com
+Apps=7
+
+;
+; Global settings, keep this at the end as its used as an integrity check.
+;
+[_OPTIONS]
+RefreshURL=http://www.microsoft.com/isapi/redir.dll?PRD=%s&PLCID=%s&PVER=%s&OS=%s&OVER=%s&OLCID=%s&AR=%s
+SignUpUrl=http://www.microsoft.com/isapi/redir.dll?PRD=%s&PLCID=%s&PVER=%s&OS=%s&OVER=%s&OLCID=%s&AR=%s
+

@@ -1,0 +1,17 @@
+[version]
+signature="$Chicago$"
+SetupClass=Base
+[DefaultInstall]
+UpdateInis=msdos
+
+ 
+
+[msdos]
+%30%\msdos.sys,Options, , "AutoScan=1"
+%30%\msdos.sys,Options, , "BootDelay=1"
+%30%\msdos.sys,Options, , "DblSpace=1"
+%30%\msdos.sys,Options, , "Logo=1"
+%30%\msdos.sys,Options, , "DisableLog=0"
+%30%\msdos.sys,Options, , "SystemReg=1"
+%30%\msdos.sys,Options, , "BootWarn=1" 
+

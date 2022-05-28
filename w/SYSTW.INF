@@ -1,0 +1,32 @@
+[version]
+signature="$Chicago$"
+SetupClass=Base
+[DefaultInstall]
+UpdateInis=add
+
+ 
+
+[add]
+%10%\system.ini,386Enh, , "ConservativeSwapfileUsage=1"
+%10%\system.ini,386Enh, , "LocalLoadHigh=1"
+%10%\system.ini,386Enh, , "MaxPhysPage=60000"
+%10%\system.ini,386Enh, , "LocalLoadHigh=1"
+%10%\system.ini,386Enh, , "PageBuffers=32"
+%10%\system.ini,386Enh, , "DMABufferSize=64"
+%10%\system.ini,386Enh, , "PerVMFiles=200"
+%10%\system.ini,386Enh, , "MinSPs=4"
+%10%\system.ini,386Enh, , "VGAMonoText=Off"
+%10%\system.ini,386Enh, , "PageOverCommit=20"
+%10%\system.ini,386Enh, , "MinTimeSlice=40"
+%10%\system.ini,386Enh, , "RemovableIDE=1"
+
+%10%\system.ini,386Enh, , "SysVMEMSLimit=-1"
+%10%\system.ini,386Enh, , "NoWaitNetIO=On"
+%10%\system.ini,386Enh, , "NetHeapSize=20"
+
+
+
+%10%\system.ini,vcache, , "Chunksize=1024"
+%10%\system.ini,vcache, , "NameCache=4096"
+%10%\system.ini,vcache, , "MaxFileCache=524288"
+

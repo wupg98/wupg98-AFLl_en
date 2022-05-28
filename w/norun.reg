@@ -1,0 +1,6 @@
+REGEDIT4
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunServices]
+"KB891711"=-
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunServices-]
+"KB891711"="%windir%\\SYSTEM\\KB891711\\KB891711.exe"

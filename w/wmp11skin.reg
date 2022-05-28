@@ -1,0 +1,12 @@
+REGEDIT4
+
+[HKEY_USERS\.DEFAULT\Software\Microsoft\MediaPlayer\Player\Skins]
+"LastViewMode"=dword:00000001
+"CurrentSkin"="C:\\wupg\\config\\skins\\Windows Media Player 11.wmz"
+
+[HKEY_USERS\.DEFAULT\Software\Microsoft\MediaPlayer\Preferences]
+"DisableMRU"=dword:00000000
+"LaunchIndex"=dword:000001bb
+"AppColorLimited"=dword:00000001
+
+

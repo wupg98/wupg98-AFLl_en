@@ -1,0 +1,9 @@
+regedit /s safefile.reg 
+
+
+
+
+
+
+
+

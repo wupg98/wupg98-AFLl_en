@@ -1,0 +1,88 @@
+Added/removed:
+NTFSRO removed
+
+Changes in system.ini
+
+removed:
+"MaxBPs=300"
+"DirectoryCache=96"
+"VideoFastPaste=On"
+
+Changes in config.sys
+According to http://www.angelfire.com/linux/16_bit_os/dos/memory.htm
+this is usefull
+DEVICE=%windir%\EMM386.exe I=B000-B7FF M3 D=256 RAM AUTO NOTR  
+
+FILESHIGH=140
+
+
+
+
+Change Settings
+
+Through the contents in the folder "Config" you can change some settings
+e.g. you can activate  fast removing of an USB mass storage device  use "usb fast remove.bat"
+and then restart your system.
+
+(If you already installed some Windows 98 Updates before installing wupg98.
+than you may have to place the file systray.exe which shouldn't be higher than version 4.10.2222 in C:\wupg\Recover)
+
+Extras
+
+Jpeg File support for Paint can be found in the folder named "mspaintfilter".
+
+In Hearts you can see the card of your opponents now by pressing Alt+CTRL+Shift+F12 
+
+The Internet Games can be found in your Windows Directory 
+in a folder called "msg". 
+
+The Movie Maker 1.0 can be found in your Windows Directory 
+in a folder called "MovieMaker".
+
+In nearly every case you will find the Internet Games under C:\Windows\msg
+and Movie Maker 1.0 under C:\Windows\MovieMaker 
+------------------------------------------------------------------------------------------ 
+Thes Extras can be activated by your self if you like.
+
+With
+
+-->don't show Bootlogo .bat
+You can disable the appearing of the Bootlogo while booting also optimizes other things like 
+not displaying the safe mode warning messages.
+
+With
+-->activate NoDos.reg   You can disable the "restart in Dos" option
+
+With
+-->disable Command Prompt.reg You can disable that somebody can open the command prompt.
+
+
+
+With
+-->designme.bat     
+-->design2000.bat
+You can choose witch Design directorys should have 
+like "Windows 2000" or "Windows Me".
+
+With
+-->don't show Low Disk Space warnings.reg
+You can disable that Windows shows "Low Disk Space warnings".
+
+
+
+
+With
+-->PasswortLogon.reg you can disable the Cancel button at Logon.
+
+This does only work if you use the "Microsoft Family Logon" for
+Logon.
+------------------------------------------------------------------------------------------
+
+There are other .reg Files in the folders "activate deactivate functions manuel" and 
+"undo functions manuel" too deactivate or activate some functions or undo these manuel.
+If you  choosed to "install only the most important registry tweaks" and want to add ore remove some tweaks they are very helpfull.
+
+
+
+The Upgrade can be uninstalled by clicking Start-->Run--> 
+and typing  C:\wupg\w\uninstall.bat

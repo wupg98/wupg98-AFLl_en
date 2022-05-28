@@ -1,0 +1,1 @@
+Only use "install filter.reg" if you don't have Microsoft Office installed!!!
