@@ -28,7 +28,7 @@ Upgrade Pack 98 © by X-Pachner ®
 
 
 About 60 Microsoft Updates for Windows 98 and also for Internet Explorer 6.0 SP1,Windows Media Player 9.0,DirectX 9.0 c under Windows 98.
-USB-Mass Storage Device Drivers for Windows 98,Movie Maker 1.0 with 287564 Update,Internet-Games,and many extensions for Windows 98 are also included.
+Movie Maker 1.0 with 287564 Update,Internet-Games,and many extensions for Windows 98 are also included.
 
 
 Recommend System Requirements:
@@ -101,7 +101,7 @@ ZIP Compressed Folder, bether Regedit and Notepad.
 Jpeg File support for Paint.
 Disables displaying the Safe mode warning messages.(use "don't show Bootlogo .bat")
 Multi-coloumn und faster opening Startmenu,no interruption while defraging through Screensavers anymore,
-,256 Color Systray Icons ,Recyclebin can be renamed,fixes some Bugs,USB-Mass Storage Device Drivers,
+,256 Color Systray Icons ,Recyclebin can be renamed,fixes some Bugs
 ,speeds up the floppy drive,
 more safety through emptying the Recent Docs list in the start menu after shutdown,
 the last logged on user is'nt shown at the logon,shows the full name and it's extension of files,no AUTOPLAY of Data CD/DVDs and Audio-CDs,
